@@ -15,7 +15,7 @@ An opinionated oci image builder. This project provides tools and configurations
 ### [RF-Liquidsoap](https://github.com/radiofrance/rf-liquidsoap)
 Radio France's liquidsoap configuration with a self-contained docker infrastructure for resilient radio streaming. This project helps in setting up and managing robust radio streaming solutions.
 
-- **Language:** Makefile
+- **Language:** Liquidsoap
 - **License:** CeCILL Free Software License Agreement v1
 
 ## Explore More
